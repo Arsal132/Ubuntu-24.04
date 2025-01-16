@@ -15,3 +15,19 @@ So If We Install on Install Update Repo install on desktop with full date
 <pre>adduser $USER</pre>
 
 So Add you user name and and Password like #ubuntu Its a Prefect password 
+and Now if We Went install Next command and make Make a Video for see on YouTube 
+<pre>su $USER</pre>
+
+Now If Open In root localhost and make a Prefect desktop on termux 
+
+<pre>sudo apt install xfce4 xfce4-terminal xfce4-appmenu-plugin xfce4-whiskermenu-plugin</pre>
+so if we Install On Desktop for xfce4 and make a Prefect desktop on termux 
+
+<pre>sudo apt install ukui-desktop-environment</pre>
+So Now If We Download in UKUI Desktop Environment install on Termux ukui-desktop-environment
+<pre>sudo apt install ubuntustudio-menu</pre>
+So If We Install menu and automatically setup on desktop With Fully Update and Install Desktop With Ubuntu-studio desktop create and Fully Work
+<pre>sudo apt install tigervnc-standalone-server</pre>
+Now If We Install Tigervnc amd Fully work Desktop
+<pre>vncserver</pre>
+Now If We Start and Open Realvnc and Show Ghe Xfce4 desktop
